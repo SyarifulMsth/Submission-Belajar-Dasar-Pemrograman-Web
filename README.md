@@ -10,6 +10,9 @@ Submission: Tugas Akhir Membuat Website ini dikembangkan dengan tujuan sebagai s
 :white_check_mark: Menampilkan identitas diri (biodata diri) yang ditampilkan dalam elemen aside.<br>
 :white_check_mark: Menyusun layout dengan menggunakan flexbox.<br>
 
+# :rocket: Deploy
+https://ventuno-cinema-ver2.netlify.app/
+
 # :pushpin: Result
 
 ## Tampilan Desktop
@@ -18,5 +21,4 @@ Submission: Tugas Akhir Membuat Website ini dikembangkan dengan tujuan sebagai s
 ## Tampilan Mobile
 ![aa](https://user-images.githubusercontent.com/60634669/178001329-1f90eae9-8ac7-438f-85ef-0866fa0b4dbe.PNG)
 
-# :rocket: Deploy
-https://ventuno-cinema-ver2.netlify.app/
+
