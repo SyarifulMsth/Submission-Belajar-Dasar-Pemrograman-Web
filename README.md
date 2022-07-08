@@ -11,3 +11,9 @@ Submission: Tugas Akhir Membuat Website ini dikembangkan dengan tujuan sebagai s
 :white_check_mark: Menyusun layout dengan menggunakan flexbox.<br>
 
 # :pushpin: Result
+
+## Tampilan Desktop
+![Capture](https://user-images.githubusercontent.com/60634669/178001214-e8dcc0c8-8c32-4ba7-8b15-d3c0b2387458.PNG)
+
+## Tampilan Mobile
+![aa](https://user-images.githubusercontent.com/60634669/178001329-1f90eae9-8ac7-438f-85ef-0866fa0b4dbe.PNG)
